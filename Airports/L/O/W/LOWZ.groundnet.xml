@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+<parkingList>
+		<Parking index="0" type="ga" name="Apron_9" lat="N47 17.563099" lon="E12 47.406466" heading="165.5"  radius="10" airlineCodes="" />
+		<Parking index="1" type="ga" name="Apron_8" lat="N47 17.551586" lon="E12 47.414342" heading="260"  radius="10" airlineCodes="" />
+		<Parking index="2" type="ga" name="Apron_7" lat="N47 17.540165" lon="E12 47.370481" heading="346.5"  radius="10" airlineCodes="" />
+		<Parking index="3" type="ga" name="Apron_6" lat="N47 17.538861" lon="E12 47.356789" heading="346.5"  radius="10" airlineCodes="" />
+		<Parking index="4" type="ga" name="Apron_5" lat="N47 17.536558" lon="E12 47.340267" heading="346.5"  radius="10" airlineCodes="" />
+		<Parking index="5" type="ga" name="Apron_4" lat="N47 17.531800" lon="E12 47.319898" heading="346.5"  radius="10" airlineCodes="" />
+		<Parking index="6" type="ga" name="Apron_3" lat="N47 17.529650" lon="E12 47.308130" heading="346.5"  radius="10" airlineCodes="" />
+		<Parking index="7" type="ga" name="Apron_1" lat="N47 17.522431" lon="E12 47.228989" heading="150.58"  radius="10" airlineCodes="" />
+		<Parking index="8" type="ga" name="Apron_2" lat="N47 17.528883" lon="E12 47.297153" heading="346.5"  radius="10" airlineCodes="" />
+		<Parking index="9" type="ga" name="Grass_6" lat="N47 17.517182" lon="E12 47.347229" heading="346.5"  radius="10" airlineCodes="" />
+		<Parking index="10" type="ga" name="Grass_5" lat="N47 17.504430" lon="E12 47.281738" heading="346.5"  radius="10" airlineCodes="" />
+		<Parking index="11" type="ga" name="Grass_4" lat="N47 17.503232" lon="E12 47.272097" heading="346.5"  radius="10" airlineCodes="" />
+		<Parking index="12" type="ga" name="Grass_3" lat="N47 17.501299" lon="E12 47.263135" heading="346.5"  radius="10" airlineCodes="" />
+		<Parking index="13" type="ga" name="Grass_2" lat="N47 17.498075" lon="E12 47.238014" heading="346.5"  radius="10" airlineCodes="" />
+		<Parking index="14" type="ga" name="Grass_1" lat="N47 17.496509" lon="E12 47.225929" heading="346.5"  radius="10" airlineCodes="" />
+</parkingList>
+</groundnet>
